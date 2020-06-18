@@ -20,7 +20,7 @@
 		<spring.version>4.3.6.RELEASE</spring.version>
 		 
  
-		<jackson.version>2.9.5</jackson.version>
+		<jackson.version>2.10.0.pr1</jackson.version>
 	  
 		<!-- environment setting -->
 		<jdk.version>1.8</jdk.version>
